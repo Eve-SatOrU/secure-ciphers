@@ -4,7 +4,6 @@ Code Lock is a collection of encryption algorithms implemented in JavaScript. It
 *Caesar cipher
 *Vigenère cipher
 *Diffie-Hellman key exchange
-*ElGamal encryption
 *RSA encryption
 # Installation
 You can install Code Lock using npm:
