@@ -1,5 +1,5 @@
-# code-lock
-Code Lock is a collection of encryption algorithms implemented in JavaScript. It includes the following algorithms:
+# secure-ciphers
+secure ciphers is a collection of encryption algorithms implemented in JavaScript. It includes the following algorithms:
 
 *Caesar cipher
 *Vigenère cipher
