@@ -6,14 +6,14 @@ secure ciphers is a collection of encryption algorithms implemented in JavaScrip
 *Diffie-Hellman key exchange
 *RSA encryption
 # Installation
-You can install Code Lock using npm:
+You can install secure ciphers using npm:
 ```
-npm install code-lock
+npm install secure-ciphers
 ```
 # Usage
 Here's an example of how to use the Caesar cipher:
 ```javascript
-const { encryptCaesar, decryptCaesar } = require('code-lock/caesar');
+const { encryptCaesar, decryptCaesar } = require('secure-ciphers/caesar');
 const message = 'Hello, world!';
 const key = 3;
 const encrypted = encryptCaesar(message, key);
@@ -32,7 +32,7 @@ Code Lock is released under the MIT License.
 Eve-SatOrU
 
 # Project Link: 
-https://github.com/Eve-SatOrU/code-lock
+https://github.com/Eve-SatOrU/secure-ciphers
 
 
 
