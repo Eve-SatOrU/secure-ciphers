@@ -27,7 +27,7 @@ You can use the other encryption algorithms in the same way. See the documentati
 If you find a bug or have a feature request, please open an issue on the GitHub repository. Pull requests are welcome!
 
 # License
-Code Lock is released under the MIT License.
+secure ciphers is released under the MIT License.
 # Contact Name 
 Eve-SatOrU
 
